@@ -44,10 +44,11 @@ If you plan to use the `tf.exe` command line provided by the Visual Studio IDE, 
 * **Checkout**
 * **Undo**
 * **Open In Browser**
+* **Delete**
 
 ## Issues
 
-Please report any issue or comment [here](https://github.com/generalov/vscode-tfs/issues).
+Please report any issue or comment [here](https://github.com/bheklilr/vscode-tfs/issues).
 
 ## Contribute
 
@@ -60,15 +61,20 @@ To be able to contribute to TFS development, you need to be at ease with **NodeJ
 
 ## About the fork
 
-This is a fork of [ivangabriele.vscode-tfs](https://marketplace.visualstudio.com/items/ivangabriele.vscode-tfs). The changes are:
+This is a fork of [generalov.vscode-tfs](https://marketplace.visualstudio.com/items/generalov.vscode-tfs). The changes are:
 
 * Configurable path to `tf.exe` binary.
 * New TFS menu commands.
 * Fixed checkout for edit on save.
 * Improved error handling.
+* Registered each action as a VS Code command so that it can be called directly
+* Added a Delete command
+* Opened up issues so bugs or feature requests can be made.
+
+This was forked from generalov.vscode-tfs because that repository had not been committed to in over a year.  I felt it easier to just make the changes myself and re-publish.  Pull requests welcome.
 
 #### Links
 
-* [TFS extension on Github](https://github.com/generalov/vscode-tfs)
-* [TFS extension on Visual Studio Market Place](https://marketplace.visualstudio.com/items/generalov.vscode-tfs)
-* [MIT Licence](https://github.com/generalov/vscode-tfs/blob/master/LICENCE)
+* [TFS extension on Github](https://github.com/bheklilr/vscode-tfs)
+* [TFS extension on Visual Studio Market Place](https://marketplace.visualstudio.com/items/bheklilr.vscode-tfs)
+* [MIT Licence](https://github.com/bheklilr/vscode-tfs/blob/master/LICENCE)
