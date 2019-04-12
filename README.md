@@ -52,7 +52,7 @@ Please report any issue or comment [here](https://github.com/bheklilr/vscode-tfs
 
 To be able to contribute to TFS development, you need to be at ease with **NodeJS** language and **Git** usage.
 
-    git clone https://github.com/generalov/vscode-tfs.git
+    git clone https://github.com/bheklilr/vscode-tfs.git
     cd vscode-tfs
     npm install
     npm test
