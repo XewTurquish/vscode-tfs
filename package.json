@@ -33,8 +33,8 @@
     "scripts": {
         "postinstall": "node ./node_modules/vscode/bin/install",
         "test": "mocha ./test/**/*.test.js",
-        "release": "vsce publish patch",
-        "build": "vsce package",
+        "release": "npx vsce publish patch",
+        "build": "npx vsce package",
         "fix": "prettier-eslint --write \"lib/**/*.js\" \"test/**/*.js\""
     },
     "activationEvents": [
