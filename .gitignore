@@ -8,3 +8,6 @@ npm-debug.log*
 # Dependency directory
 node_modules
 .vscode-test
+
+# built files
+*.vsix
