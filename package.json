@@ -4,11 +4,11 @@
     "description": "TFS Visual Studio Code integration.",
     "version": "1.0.1",
     "author": {
-        "name": "Evgeniy Generalov",
-        "email": "e.generalov@gmail.com",
-        "url": "https://github.com/generalov"
+        "name": "Aaron Stevens",
+        "email": "bheklilr2@gmail.com",
+        "url": "https://github.com/bheklilr/vscode-tfs"
     },
-    "publisher": "generalov",
+    "publisher": "bheklilr",
     "license": "SEE LICENSE IN LICENSE",
     "keywords": [
         "tfs",
@@ -19,12 +19,12 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/generalov/vscode-tfs.git"
+        "url": "git+https://github.com/bheklilr/vscode-tfs.git"
     },
     "bugs": {
-        "url": "https://github.com/generalov/vscode-tfs/issues"
+        "url": "https://github.com/bheklilr/vscode-tfs/issues"
     },
-    "homepage": "https://github.com/generalov/vscode-tfs#readme",
+    "homepage": "https://github.com/bheklilr/vscode-tfs#readme",
     "readmeFilename": "README.md",
     "main": "./lib/extension",
     "engines": {
