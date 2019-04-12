@@ -45,6 +45,26 @@
             {
                 "command": "vscode-tfs.list",
                 "title": "TFS: List Commands"
+            },
+            {
+                "command": "vscode-tfs.checkout",
+                "title": "TFS: Checkout File"
+            },
+            {
+                "command": "vscode-tfs.add",
+                "title": "TFS: Add File"
+            },
+            {
+                "command": "vscode-tfs.undo",
+                "title": "TFS: Undo Changes"
+            },
+            {
+                "command": "vscode-tfs.open-in-browser",
+                "title": "TFS: Open in Browser"
+            },
+            {
+                "command": "vscode-tfs.delete",
+                "title": "TFS: Delete File"
             }
         ],
         "configuration": {
