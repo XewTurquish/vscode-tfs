@@ -3,10 +3,8 @@
 **Visual Studio Code Team Foundation Server integration**
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![GitHub](https://img.shields.io/github/release/generalov/vscode-tfs.svg?style=flat-square)](https://github.com/generalov/vscode-tfs/releases)
-[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/generalov.vscode-tfs.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=generalov.vscode-tfs)
-[![David](https://img.shields.io/david/generalov/vscode-tfs.svg?style=flat-square)](https://david-dm.org/generalov/vscode-tfs?type=dev)
-[![David](https://img.shields.io/david/dev/generalov/vscode-tfs.svg?style=flat-square)](https://david-dm.org/generalov/vscode-tfs?type=dev)
+[![GitHub](https://img.shields.io/github/release/bheklilr/vscode-tfs.svg?style=flat-square)](https://github.com/bheklilr/vscode-tfs/releases)
+[![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/bheklilr.vscode-tfs.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=bheklilr.vscode-tfs)
 
 ---
 
