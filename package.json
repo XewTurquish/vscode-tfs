@@ -65,6 +65,10 @@
             {
                 "command": "vscode-tfs.delete",
                 "title": "TFS: Delete File"
+            },
+            {
+                "command": "vscode-tfs.diff",
+                "title": "TFS: Diff File"
             }
         ],
         "configuration": {
