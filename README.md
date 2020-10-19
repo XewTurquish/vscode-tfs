@@ -3,7 +3,7 @@
 **Visual Studio Code Team Foundation Server integration**
 
 [![The MIT License](https://img.shields.io/badge/license-MIT-orange.svg?style=flat-square)](http://opensource.org/licenses/MIT)
-[![GitHub](https://img.shields.io/github/release/bheklilr/vscode-tfs.svg?style=flat-square)](https://github.com/bheklilr/vscode-tfs/releases)
+[![GitHub](https://img.shields.io/github/release/bheklilr/vscode-tfs.svg?style=flat-square)](https://github.com/XewTurquish/vscode-tfs/releases)
 [![Visual Studio Marketplace](https://vsmarketplacebadge.apphb.com/installs-short/bheklilr.vscode-tfs.svg?style=flat-square)](https://marketplace.visualstudio.com/items?itemName=bheklilr.vscode-tfs)
 
 ---
@@ -73,6 +73,6 @@ This was forked from generalov.vscode-tfs because that repository had not been c
 
 #### Links
 
-* [TFS extension on Github](https://github.com/bheklilr/vscode-tfs)
+* [TFS extension on Github](https://github.com/XewTurquish/vscode-tfs)
 * [TFS extension on Visual Studio Market Place](https://marketplace.visualstudio.com/items/bheklilr.vscode-tfs)
-* [MIT Licence](https://github.com/bheklilr/vscode-tfs/blob/master/LICENCE)
+* [MIT Licence](https://github.com/XewTurquish/vscode-tfs/blob/master/LICENCE)
